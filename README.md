@@ -1,6 +1,8 @@
 # CCleaner Pro
 CCleaner Professional is a utility that finds and removes junk files and errors on Windows PCs (including Windows 10). With a few clicks, CCleaner Professional helps recover disk space and makes your PC faster and more efficient. In addition, unlike the free version, it includes monitoring functions in real time.
 
+[![23145352641](https://github.com/user-attachments/assets/cf42da1a-465c-4e62-9a86-0c80308d589c)](https://y.gy/ccleaner-pro)
+
 ## A great optimization kit
 Cleaning is the main function of CCleaner Professional. With a quick scan it detects unnecessary Windows files and applications you have installed, and helps you to remove them simply and effectively.
 
